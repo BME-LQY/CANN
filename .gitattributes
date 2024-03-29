@@ -1,0 +1,2 @@
+cann6.0.run filter=lfs diff=lfs merge=lfs -text
+*.run filter=lfs diff=lfs merge=lfs -text
